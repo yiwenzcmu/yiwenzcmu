@@ -1,3 +1,4 @@
+![Logo](https://github-readme-stats.vercel.app/api?username=yiwenzcmu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 # Hi, I'm Yiwen! 👋
 
@@ -14,7 +15,7 @@ My passion lies in the field of data science, and I am currently exploring its a
 
 
 
-![Logo](https://github-readme-stats.vercel.app/api?username=yiwenzcmu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 
 
 ## 🛠 Skills
