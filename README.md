@@ -28,7 +28,7 @@ My passion lies in the field of data science, and I am currently exploring its a
 
 
 ## Other Things
-👩‍💻 I'm currently working as a data analytics intern and working on machine learning projects at Uber Hong Kong.
+👩‍💻 I will graduate in May 2024. I'm currently looking for full-time opportunities in data science/data analystics.
 
 🧠 I'm currently learning advanced natural language processing, machine learning with large datasets, and distributed systems.  
 
