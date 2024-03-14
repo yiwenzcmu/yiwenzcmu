@@ -29,7 +29,7 @@ I am currently an MISM (Master of Information Systems Management) student at Car
 ## Other Things
 👩‍💻 I will graduate in May 2024. I'm currently looking for full-time opportunities in data science/data analystics.
 
-🧠 I'm currently learning advanced natural language processing, machine learning with large datasets, and distributed systems.  
+🧠 I'm currently learning generative AI and machine learning in production. I'm also working as a Teaching Assistant for CMU 10405/10605 machine learning with large datasets.  
 
 📫 How to reach me: yiwenemmaz@gmail.com
 
