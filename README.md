@@ -6,7 +6,6 @@
 ## 🚀 About Me
 I am currently an MISM (Master of Information Systems Management) student at Carnegie Mellon University Heinz College. I have a strong background in Mathematics, having completed my bachelor's degree at the University of Hong Kong. 
 
-My passion lies in the field of data science, and I am currently exploring its applications in various domains such as digital marketing, bioengineering, and finance. I am enthusiastic about leveraging data-driven insights to make informed decisions and drive meaningful outcomes.
 
 
 ## 🔗 Links
